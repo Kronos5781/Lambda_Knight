@@ -1,0 +1,61 @@
+
+textures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runningknight
+  rotate: false
+  xy: 0, 0
+  size: 192, 32
+  orig: 192, 32
+  offset: 0, 0
+  index: -1
+standingknight
+  rotate: false
+  xy: 192, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+jumpingknight
+  rotate: false
+  xy: 320, 0
+  size: 96, 32
+  orig: 96, 32
+  offset: 0, 0
+  index: -1
+attackingknight
+  rotate: false
+  xy: 416, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+blockingknight
+  rotate: false
+  xy: 480, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+dyingball
+  rotate: false
+  xy: 544, 16
+  size: 80, 16
+  orig: 80, 16
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 544, 0
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+deadKnight
+  rotate: false
+  xy: 624, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
