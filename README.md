@@ -1,2 +1,2 @@
 # LambdaKnight
-Nice 2D Platformer Knight Game
+2D Platformer Knight Game
